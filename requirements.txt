@@ -46,7 +46,7 @@ dask
 decorator==4.4.2
 defusedxml==0.6.0
 diff-match-patch 
-setuptools==0.7.3
+setuptools
 docutils==0.16
 entrypoints==0.3
 et-xmlfile==1.0.1
