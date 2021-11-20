@@ -180,9 +180,9 @@ QtPy==1.9.0
 regex 
 requests 
 rope 
-Rtree==0.9.4
-ruamel-yaml==0.15.87
-scikit-image==0.17.2
+Rtree
+ruamel-yaml
+scikit-image
 scikit-learn 
 scipy 
 seaborn 
