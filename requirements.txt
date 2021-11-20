@@ -36,7 +36,7 @@ comtypes==1.1.7
 conda
 conda-build
  
-conda-verify==3.4.2
+
 contextlib2==0.6.0.post1
 cryptography 
 cycler==0.10.0
