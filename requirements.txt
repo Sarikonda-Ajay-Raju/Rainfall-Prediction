@@ -109,7 +109,7 @@ more-itertools
 mpmath==1.1.0
 msgpack==1.0.0
 multipledispatch==0.6.0
-navigator-updater==0.2.1
+navigator-updater
 nbclient 
 nbconvert 
 nbformat 
